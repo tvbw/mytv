@@ -15,8 +15,6 @@
 凤凰资讯,http://39.135.55.7:6610/PLTV/88888888/224/3221227226/index.m3u8?servicetype=1&IASHttpSessionld=OTT?zgangd
 凤凰资讯,http://play-live.ifeng.com/live/06OLEEWQKN4.m3u8
 凤凰资讯,http://play-live.ifeng.com/live/06OLEEWQKN4.m3u8?zgangd
-TVBS新闻,http://38.64.72.148/hls/modn/list/4006/chunklist0.m3u8
-民视新闻,http://38.64.72.148:80/hls/modn/list/4012/chunklist1.m3u8
 CCTV1,http://39.134.115.163:8080/PLTV/88888910/224/3221225618/index.m3u8
 CCTV1,http://39.134.115.163:8080/PLTV/88888910/224/3221225642/index.m3u8
 CCTV1,http://39.135.138.60:18890/PLTV/88888910/224/3221225618/index.m3u8
@@ -92,6 +90,7 @@ FOX新闻,https://fox-foxnewsnow-samsungus.amagi.tv/playlist720p.m3u8
 寰宇新闻,https://wabc.ml/hlk.php?id=136
 寰宇新闻,http://60.249.146.250:8547/playlist.m3u8
 TVBS新闻,rtmp://219.80.97.25/sat/tv551
+TVBS新闻,http://38.64.72.1hls/modn/list/4006/chunklist0.m3u8
 TVBS新闻,http://st.webs.vc/tvb.php?id=1
 TVBS新闻,http://38.64.72.148/hls/modn/list/4006/chunklist0.m3u8
 TVBS新闻,http://radius.8866.org:880/hls/82/index.m3u8
@@ -107,7 +106,7 @@ TVBS新闻,http://38.64.72.148:80/hls/modn/list/4006/chunklist0.m3u8
 中天新闻,http://220.134.196.147:9541/http/116.50.42.18:8081/hls/78/80/ch63max.m3u8
 中天新闻,http://220.134.196.147:9503/index.m3u8
 民视新闻,http://38.64.72.148:80/hls/modn/list/4012/chunklist0.m3u8
-民视新闻,http://38.64.72.148:80/hls/modn/list/4012/chunklist1.m3u8
+民视新闻,http://38.64.72.148:80/hls/modn/list/4012/chunklis48/t1.m3u8
 东森财经新闻,rtmp://219.80.97.25/sat/tv571
 东森财经新闻,http://for40255.sytes.net:8099/tv/iptv/live.php?id=dscjxw
 TVB翡翠,http://test.crtvhstv.xyz:80/play/5iVToWZi9rVAYQQsYXHze19nX0CPUCMayWc4hh8Svqw
